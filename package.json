@@ -2,7 +2,7 @@
   "name": "my-memory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/keslert/app-name",
+  "homepage": "https://github.com/katophelix/Memory-Game",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",

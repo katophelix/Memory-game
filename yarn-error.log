@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\Kat\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
+  C:\Program Files\nodejs\node.exe C:\Users\Kat\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js deploy
 
 PATH: 
   C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Kat\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\MongoDB\Server\3.6\bin;C:\Users\Kat\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Heroku\bin;C:\Users\Kat\AppData\Roaming\npm;C:\Program Files (x86)\heroku\bin
@@ -18,7 +18,7 @@ npm manifest:
     "name": "my-memory",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/keslert/app-name",
+    "homepage": "https://github.com/katophelix/Memory-Game",
     "dependencies": {
       "react": "^16.3.2",
       "react-dom": "^16.3.2",
@@ -7325,10 +7325,10 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 3221225786
+  Exit code: 1
   Command: C:\WINDOWS\system32\cmd.exe
-  Arguments: /d /s /c react-scripts start
-  Directory: C:\Users\Kat\BC\Memory-game\my-memory
+  Arguments: /d /s /c react-scripts build && gh-pages -d build
+  Directory: C:\Users\Kat\BC\Memory-game
   Output:
   
       at ProcessTermError.MessageError (C:\Users\Kat\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
