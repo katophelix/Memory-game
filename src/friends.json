@@ -2,77 +2,77 @@
   {
     "id": 1,
     "name": "Annie",
-    "image": "images/annie.jpg"
+    "image": "assets/images/annie.jpg"
     
   },
   {
     "id": 2,
     "name": "The Drowsy Chaparone",
-    "image": "images/drowsy.jpg"
+    "image": "assets/images/drowsy.jpg"
   },
   {
     "id": 3,
     "name": "Evita",
-    "image": "images/evita.jpg"
+    "image": "assets/images/evita.jpg"
   },
   {
     "id": 4,
     "name": "Hamilton",
-    "image": "images/hamilton.gif"
+    "image": "assets/images/hamilton.gif"
   },
   {
     "id": 5,
     "name": "Mary Poppins",
-    "image":"images/mary.jpg"
+    "image":"assets/images/mary.jpg"
   },
   {
     "id": 6,
     "name": "Tommy",
-    "image": "images/tommy.jpg"
+    "image": "assets/images/tommy.jpg"
   },
   {
     "id": 7,
     "name": "West Side Story",
-    "image": "images/west.jpg"
+    "image": "assets/images/west.jpg"
   },
   {
     "id": 8,
     "name": "Wicked",
-    "image": "images/wicked.jpg"
+    "image": "assets/images/wicked.jpg"
   },
   {
     "id": 9,
     "name": "Into the Woods",
-    "image": "images/woods.jpg"
+    "image": "assets/images/woods.jpg"
   },
   {
     "id": 10,
     "name": "A chorus Line",
-    "image": "images/line.jpg"
+    "image": "assets/images/line.jpg"
   },
   {
     "id": 11,
     "name": "Pippin",
-    "image": "images/pippin.jpg"
+    "image": "assets/images/pippin.jpg"
   },
   {
     "id": 12,
     "name": "Chicago",
-    "image": "images/chicago.jpg"
+    "image": "assets/images/chicago.jpg"
   },
   {
     "id": 13,
     "name": "Godspell",
-    "image": "images/godspell.jpg"
+    "image": "assets/images/godspell.jpg"
   },
   {
     "id": 14,
     "name": "Finding Neverland",
-    "image": "images/neverland.jpg"
+    "image": "assets/images/neverland.jpg"
   },
   {
     "id": 15,
     "name": "Les Miserable",
-    "image": "images/lesmis.jpg"
+    "image": "assets/images/lesmis.jpg"
   }
 ]
