@@ -1,3 +1,38 @@
+
+# Broadway Musical Memory Game
+
+## Overview
+This is a web application created using REact. Click on a image and the images shiuffle! Keep clickin untill your score equals 15! But don't click on the same image twice!!!!!
+
+### Utilising
+* React
+* Bootstrap
+* CSS
+* HTML
+
+
+
+![Screen Shot](public/assets/imges/screen.gif)
+
+Here's a sample video:
+
+![Sample Video](public/assets/images/memory.mp4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
