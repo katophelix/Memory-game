@@ -5,9 +5,9 @@
 ![Sample Video](https://user-images.githubusercontent.com/32774089/39078094-d40af6b8-44d4-11e8-9952-461d2f3756de.gif)
 
 ## Overview
-This is a web application created using REact. Click on a image and the images shiuffle! Keep clickin untill your score equals 15! But don't click on the same image twice!!!!!
+This is a web application created using React. Click on an image and the images shuffle! Keep clicking until your score equals 15! But don't click on the same image twice!!!!!
 
-### Utilising
+### Utilis
 * React
 * Bootstrap
 * CSS
@@ -17,7 +17,6 @@ This is a web application created using REact. Click on a image and the images s
 
 ![Screen Shot](public/assets/images/screen.gif)
 
-Here's a sample video:
 
 
 
